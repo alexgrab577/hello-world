@@ -13,5 +13,6 @@ namespace WPFApplication
     /// </summary>
     public partial class App : Application
     {
+	string test;
     }
 }
